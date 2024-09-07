@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 const url = "https://api-web.nhle.com/v1/player/8478402/landing";
-//a
-//b
+
 const options = {
   headers: {
     Authorization: "Bearer 6Q************"
