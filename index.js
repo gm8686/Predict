@@ -1,5 +1,5 @@
 const url = "https://api-web.nhle.com/v1/player/8478402/landing";
-
+//contradict
 const options = {
   headers: {
     Authorization: "Bearer 6Q************"
