@@ -9,10 +9,3 @@ fetch(target, options)
   .then( data => trek = data );
 
 console.log(trek);
-
-/*
-fetch(url, options)
-  .then( res => res.json() )
-  .then( data => console.log(data) );
-
-*/
